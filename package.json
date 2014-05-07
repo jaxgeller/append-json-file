@@ -1,6 +1,6 @@
 {
   "name": "appendjson",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Append to or create a json file",
   "keywords": ["append", "json", "add to file", "append or create", "create", "file"],
   "main": "index.js",
