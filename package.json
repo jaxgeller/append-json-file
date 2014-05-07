@@ -1,7 +1,7 @@
 {
-  "name": "appendJsonFile",
-  "version": "0.0.0",
-  "description": "",
+  "name": "appendJson",
+  "version": "0.1.0",
+  "description": "Append to or create a json file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "https://github.com/jacksongeller/Append-Json-File.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "@JaxGeller",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jacksongeller/Append-Json-File/issues"
   },
